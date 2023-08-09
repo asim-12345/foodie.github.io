@@ -1,0 +1,370 @@
+.padding-around {
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+
+}
+
+.footer-padding {
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+}
+
+.head-padding {
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+}
+
+.padding-up {
+    padding-top: 30px;
+
+
+}
+
+.padding-down {
+
+    padding-bottom: 30px;
+
+
+
+
+}
+
+.text-center {
+
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+
+
+.black-color {
+
+
+    color: black;
+
+}
+
+.service-padding {
+
+    padding-left: 20px;
+
+}
+
+.discount-h5-padding {
+
+    margin-top: 80px;
+    padding-left: 40px;
+
+
+}
+
+.h5-margin {
+
+    margin-top: 120px;
+    padding-left: 60px;
+}
+
+
+.p5-margin {
+
+    padding-left: 60px;
+
+}
+
+
+.menu-img-h {
+
+
+    padding-top: 40px;
+
+}
+
+
+
+
+.footer-list {
+
+    list-style-type: none;
+
+
+
+
+}
+
+.footer-list li {
+
+
+    display: inline-block;
+
+
+}
+
+
+
+.head-color {
+
+    background-color: #8FBD1F;
+}
+
+
+.company-list {
+
+
+    list-style-type: none;
+
+
+}
+
+.company-list li {
+
+    line-height: 40px;
+
+}
+
+
+
+
+.footer-row {
+
+    display: flex;
+
+}
+
+.footer-column {
+
+    flex-direction: column;
+}
+
+
+.footer-p-font {
+
+    font-size: small;
+
+}
+
+.font-h-footer {
+
+    size: 30px;
+
+
+}
+
+.font-h-order {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+}
+
+.hero-2-padding {
+
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.footer-color {
+
+    background-color: #F7F5EB;
+
+}
+
+body {
+
+    overflow-x: hidden;
+
+
+}
+
+.menu-head-padding {
+
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.menu-footer-padding {
+
+    padding-left: 40px;
+    padding-right: 40px;
+
+
+}
+
+.about-head-padding {
+
+
+    padding-left: 40px;
+    padding-right: 30px;
+
+}
+
+.about-footer-padding {
+
+    padding-left: 50px;
+    padding-right: 45px;
+
+
+}
+
+.order-head-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.order-footer-padding {
+
+    padding-left: 54px;
+    padding-right: 50px;
+
+
+}
+
+.head-nav-list-padding {
+    padding-left: 40px;
+}
+
+
+.nav-btn-padding {
+    padding-left: 105px;
+}
+
+.about-main-padding {
+
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.about-p-padding {
+
+
+    padding-left: 50px;
+    padding-right: 30px;
+
+}
+
+.about-h-padding {
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xxx-large;
+    padding-left: 50px;
+
+
+}
+
+.about-h-font {}
+
+
+
+.order-form-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.order-2-img-padding {
+
+    margin-right: 10px;
+
+}
+
+.font-h-home-hero-2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xxx-large;
+
+}
+
+
+.contact-us-map-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.menu-banner-padding {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.contact-us-form-border {
+
+    border: 2px solid black;
+    background-color: lightgray;
+   padding-left: 0px;
+   padding-right: 0px;
+}
+
+.btn-color {
+    background-color: #83B502;
+    border: none;
+}
+
+.h-color-white {
+
+    color: white;
+
+
+}
+
+.banner-p-font {
+    font-size: medium;
+}
+
+.contact-us-banner-padding {
+
+    padding-left: 40px;
+    padding-right: 30px;
+
+}
+
+
+.contact-us-margin-btn{
+  margin-left: 150px;
+}
+.padding-right{
+   padding-right: 30px;
+}
+.padding-left{
+
+}
+
+
+.padding-top-heading{
+
+    
+    padding-top: 40px;
+    
+
+}
+.padding-bottom-heading{
+
+    
+    padding-bottom: 100px;
+    
+
+}
+
+.heading-colour{
+
+color: #83B502;;
+
+
+}
